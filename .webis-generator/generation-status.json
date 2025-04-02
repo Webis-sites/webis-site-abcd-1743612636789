@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-04-02T16:52:03.422Z",
+  "status": {
+    "totalComponents": 8,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, subheadline, and booking CTA"
+    },
+    {
+      "name": "AboutUsSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section explaining the restaurant's experience and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of the restaurant's services and specialties"
+    },
+    {
+      "name": "BookingSystem",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive reservation system for customers to book tables"
+    },
+    {
+      "name": "TestimonialsCarousel",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Carousel showcasing customer testimonials and experiences"
+    },
+    {
+      "name": "FAQAccordion",
+      "type": "faq",
+      "status": "pending",
+      "description": "Expandable FAQ section addressing common customer questions"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact information and inquiry form"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Website footer with essential links and information"
+    }
+  ],
+  "repoName": ""
+}
